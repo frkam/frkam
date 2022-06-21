@@ -16,4 +16,4 @@ Tools that i used in my projects:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frkam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
